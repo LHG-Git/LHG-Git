@@ -13,7 +13,7 @@
 >* E-mail : leehg229@naver.com<br><br>
 
 ## 📌 My Portfolio 
->* **포트폴리오 주소**<br><br>
+>* **https://www.notion.so/Heegu-Lee-e697a3c3d06b468fb359231db8783adf**<br><br>
 
 ## 🏆 Challenge / Award
 
