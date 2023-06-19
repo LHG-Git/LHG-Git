@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Heegu</h1>
-<h3 align="left">I'm a passionate Data Analyst</h3>
+<p>I'm a passionate Data Analyst</p>
 
 ## 📒 Education
 >* 2018.03 ~ 2024.02 : Kangnam Univ. major in <strong>Data Science</strong> /  minor-major in <strong>software</strong><br>
