@@ -1,11 +1,6 @@
 <h1 align="left">Hi 👋, I'm Heegu</h1>
 <h3 align="left">I'm a passionate Data Analyst</h3>
 
-* I'm a person who does my best in everything.
-* I like to derive new things from analysis.
-* Also, I will make constant efforts toward my dream.<br>
-
-
 ## 📒 Education
 >* 2018.03 ~ 2024.02 : Kangnam Univ. major in <strong>Data Science</strong> /  minor-major in <strong>software</strong><br>
 
