@@ -22,7 +22,7 @@
 <br>
 
 ## 📫 How to reach me 
-> E-mail : wpdn115@naver.com<br><br>
+> E-mail : leehg229@naver.com<br><br>
 
 <br>
 
