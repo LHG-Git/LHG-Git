@@ -3,7 +3,7 @@
 
 
 ## 📒 Education
-> | B.S in DataScience, Kangnam University, 2018.03 - 2024.02.<br>
+> | B.S in DataScience, Kangnam University, 2018.03 - 2024.02.<br><br>
 
 >🛠 Tech Stack 🛠 <br><br>
 ><strong>Using for Data Analysis<strong> <br><br>
