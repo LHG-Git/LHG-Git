@@ -13,21 +13,21 @@
 <img src="https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb&logoColor=white"> 
 <img src="https://img.shields.io/badge/Qgis-00AF9C?style=for-the-badge&logo=Qgis&logoColor=#589632"> 
 <br><br>
-><strong>Using for Web Programming</strong> <br><br>
-><img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"> 
-><img src="https://img.shields.io/badge/html5-red?style=for-the-badge&logo=html5&logoColor=white"> 
-><img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
-><img src="https://img.shields.io/badge/java-139BB4?style=for-the-badge&logo=java&logoColor=yellow">
+<strong>Using for Web Programming</strong> <br><br>
+<img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"> 
+<img src="https://img.shields.io/badge/html5-red?style=for-the-badge&logo=html5&logoColor=white"> 
+<img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-139BB4?style=for-the-badge&logo=java&logoColor=yellow">
 
 <br>
 
 ## 📫 How to reach me 
-> E-mail : leehg229@naver.com<br><br>
+ E-mail : leehg229@naver.com<br><br>
 
 <br>
 
 ## 📌 My Portfolio 
-> [<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=#000000">](https://www.notion.so/Heegu-Lee-e697a3c3d06b468fb359231db8783adf)
+ [<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=#000000">](https://www.notion.so/Heegu-Lee-e697a3c3d06b468fb359231db8783adf)
 
 
 <br><br><br><br><br>
