@@ -7,7 +7,8 @@
 
 >🛠 Tech Stack 🛠 <br><br>
 ><strong>Using for Data Analysis<strong> <br><br>
-><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
+><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+><img alt="Python" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=Python&logoColor=black"/>
 ><img src="https://img.shields.io/badge/tableau-white?style=for-the-badge&logo=tableau&logoColor=#E97627"> 
 ><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 ><img src="https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb&logoColor=white"> 
