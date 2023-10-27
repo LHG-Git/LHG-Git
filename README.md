@@ -19,15 +19,14 @@
 <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-139BB4?style=for-the-badge&logo=java&logoColor=yellow">
 
-<br>
+<br><br>
 
 ## 📫 How to reach me 
  E-mail : leehg229@naver.com<br><br>
 
-<br>
+<br><br>
 
-## 📌 My Portfolio 
- [<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=#000000">](https://www.notion.so/Heegu-Lee-e697a3c3d06b468fb359231db8783adf)
+
 
 
 <br><br><br><br><br>
