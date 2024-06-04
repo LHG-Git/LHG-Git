@@ -2,8 +2,9 @@
 <h3 align="left">I want to be a passionate Data Analyst</h3><br>
 
 
-## 📒 Education
+## 📒 Career
 > | B.S in DataScience, Kangnam University, 2018.03 - 2024.02.<br><br>
+> | [Intern] Data Analyst @milvus, 2024.03.25 - 2024.06.25
 
 >🛠 Tech Stack 🛠 <br><br>
 <strong>Using for Data Analysis<strong> <br><br>
